@@ -1,0 +1,5 @@
+hello my name is alina. here the file.
+welcome to ruby
+a
+is
+the counts
